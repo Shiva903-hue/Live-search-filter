@@ -18,8 +18,8 @@ As the user types in the search box, the list below filters in real-time to show
 7. For each item:
    - Convert its text to lowercase.
    - Check if it **includes** the user's search string using `.includes()`.
-   - If it matches → show the item.
-   - If not → hide the item.
+   - If it matches, → show the item.
+   - If not, → hide the item.
 
 ---
 
@@ -41,14 +41,11 @@ As the user types in the search box, the list below filters in real-time to show
 - `.toLowerCase()`
 
 ---
-subscribe for my Youtube Chanel (https://your-live-url.com)
+Subscribe to my YouTube Channel (https://your-live-url.com)
 
 
 ## 🙌 Author
 
 **Shivam Waghmare**  
 A passionate Web Developer 🚀
-
-
 ---
-
