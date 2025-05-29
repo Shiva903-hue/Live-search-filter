@@ -41,15 +41,6 @@ As the user types in the search box, the list below filters in real-time to show
 - `.toLowerCase()`
 
 ---
-
-## 💡 Perfect For:
-
-- JavaScript beginners
-- Mini web projects
-- Resume projects or portfolio
-- YouTube Shorts explanations
-
----
 subscribe for my Youtube Chanel (https://your-live-url.com)
 
 
