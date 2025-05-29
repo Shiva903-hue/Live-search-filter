@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Live Search Filter</title>
+  <style>
+          body {
+  font-family: sans-serif;
+  background: #f5f5f5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 400px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+/* display: none; */
+  padding: 8px;
+  background: #eee;
+  margin: 5px 0;
+  border-radius: 4px;
+}
+
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Search Items</h1>
+
+    <!-- Search input -->
+    <input type="text" id="searchInput" placeholder="Search here..." />
+
+    <!-- List of items to be filtered -->
+    <ul id="itemList">
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+      <li>React</li>
+      <li>Node.js</li>
+      <li>MongoDB</li>
+      <li>Express</li>
+      <li>Git</li>
+      <li>GitHub</li>
+      <li>TailwindCSS</li>
+      <li>Vite</li>
+      <li>Next.Js</li>
+      <li>Figma</li>
+      <li>ChatGPT</li>
+      <li>Versal</li>
+      <li>CloudAI</li>
+    </ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
