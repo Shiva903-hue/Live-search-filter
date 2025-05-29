@@ -41,7 +41,7 @@ As the user types in the search box, the list below filters in real-time to show
 - `.toLowerCase()`
 
 ---
-Subscribe to my YouTube Channel (https://your-live-url.com)
+Subscribe to my YouTube Channel (https://www.youtube.com/@CodeAstraX)
 
 
 ## 🙌 Author
